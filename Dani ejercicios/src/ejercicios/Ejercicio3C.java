@@ -8,8 +8,10 @@ public class Ejercicio3C {
 		
 		int c;
 		
-		String s =JOptionPane.showInputDialog("Introduzca un número");
-				
+		String s = JOptionPane.showInputDialog("Introduzca un número");
+		
+		
+		
 		c =	Integer.parseInt(s);
 		
 		
